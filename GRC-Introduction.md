@@ -4,6 +4,7 @@
 
 1. **Governance: How we make decisions and stay accountable**
    This is the steering wheel of the organization. It defines:
+
    - Who has authority (board of directors, executives, managers).
    - How decisions are made (policies, procedures, strategic planning).
    - What the organization stands for (mission, ethics, culture).
