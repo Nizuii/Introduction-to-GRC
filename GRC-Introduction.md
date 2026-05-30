@@ -8,3 +8,10 @@
    - Who has authority (board of directors, executives, managers).
    - How decisions are made (policies, procedures, strategic planning).
    - What the organization stands for (mission, ethics, culture).
+
+2. **Risk: What could go wrong and are we ready?**
+   This is the safety net. It involves:
+
+   - Identifying threats (cyberattacks, financial loss, natural disasters, reputation damage).
+   - Assessing how likely and damaging each threat is.
+   - Mitigating or reducing those risks (insurance, backups, security controls).
