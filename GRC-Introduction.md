@@ -47,3 +47,9 @@
        <td>You get fined, lose licenses, or face criminal charges.</td>
     </tr>
  </table>
+
+Example: A hospital handles patient data.
+- **Governance**: A Chief Privacy Officer is appointed to oversee data policy.
+- **Risk**: They identify that a ransomware attack could lock patient records.
+- **Compliance**: They must follow HIPAA (US health data law) or GDPR (EU data law) to avoid massive fines.
+
