@@ -10,10 +10,40 @@
    - How decisions are made (policies, procedures, strategic planning).
    - What the organization stands for (mission, ethics, culture).
 
-3. **Risk: What could go wrong and are we ready?**
+2. **Risk: What could go wrong and are we ready?**
 
    This is the safety net. It involves:
 
    - Identifying threats (cyberattacks, financial loss, natural disasters, reputation damage).
    - Assessing how likely and damaging each threat is.
    - Mitigating or reducing those risks (insurance, backups, security controls).
+
+3. **Compliance: Are we following the rules?**
+
+   This is the rule-checking. It ensures the organization obeys:
+
+   - Laws (data privacy laws like GDPR, industry regulations).
+   - Standards (ISO certifications, security frameworks like NIST).
+   - Internal policies (codes of conduct, HR rules).
+  
+## Why do these three go together?
+ These 3 are deeply interconnected:
+
+ <table>
+    <tr>
+       <th>If you ignore</th>
+       <th>What happens</th>
+    </tr>
+    <tr>
+       <td>Governance</td>
+       <td>Decisions are chaotic; no one knows who is responsible when things break.</td>
+    </tr>
+    <tr>
+       <td>Risk</td>
+       <td>You are blindsided by crises (hacks, lawsuits, financial collapse).</td>
+    </tr>
+    <tr>
+       <td>Compliance</td>
+       <td>You get fined, lose licenses, or face criminal charges.</td>
+    </tr>
+ </table>
