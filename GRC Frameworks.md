@@ -55,4 +55,12 @@ COSO is about making sure an organization is honest, well-managed and not commit
        <td>Control Activities</td>
        <td>Policies and procedures to reduce risk</td>
      </tr>
+     <tr>
+       <td>Information & Communication</td>
+       <td>Right info reaches right people</td>
+     </tr>
+     <tr>
+       <td>Monitoring</td>
+       <td>Continuously check if controls work</td>
+     </tr>
    </table>
