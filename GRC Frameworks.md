@@ -33,22 +33,26 @@ Before understanding these frameworks lets first categorize them:
 These frameworks often overlap and complement each other. No single framework does everything.
 
 ## 1. COSO (Committee of Sponsoring Organizations).
-COSO is a U.S.-born framework created in 1992 (updated in 2013 and 2017) to help organizations design, implement, and evaluate internal controls and enterprise risk management. It was originally a response to financial fraud scandals. There are mainly 2 versions:
 
-<table>
-  <tr>
-    <th>Version</th>
-    <th>Focus</th>
-    <th>Use Case</th>
-  </tr>
-  <tr>
-    <td>COSO Internal Control (2013)</td>
-    <td>"Are our controls effective?"</td>
-    <td>Financial reporting, SOX compliance</td>
-  </tr>
-  <tr>
-    <td>COSO ERM (2017)</td>
-    <td>"How do we manage risk strategically?"</td>
-    <td>Enterprise-wide risk, board-level decisions</td>
-  </tr>
-</table>
+COSO is about making sure an organization is honest, well-managed and not commiting fraud. It started in the finance/accounting world but expanded to enterprise risk management. COSO has 2 major models:
+
+1. **COSO Internal Control Focuses on 5 components:**
+
+   <table>
+     <tr>
+       <th>Component</th>
+       <th>What it means</th>
+     </tr>
+     <tr>
+       <td>Control Environment</td>
+       <td>Culture & tone set by leadership</td>
+     </tr>
+     <tr>
+       <td>Risk Assessment</td>
+       <td>Identify and analyze risks</td>
+     </tr>
+     <tr>
+       <td>Control Activities</td>
+       <td>Policies and procedures to reduce risk</td>
+     </tr>
+   </table>
