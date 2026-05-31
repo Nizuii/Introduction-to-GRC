@@ -64,3 +64,19 @@ COSO is about making sure an organization is honest, well-managed and not commit
        <td>Continuously check if controls work</td>
      </tr>
    </table>
+
+2. **COSO ERM - Enterprise Risk Management (2017) Expands to the full organization's strategy and covers:**
+
+   - Strategy & Goal Setting
+   - Identifying risks across the entire enterprise
+   - Responding to risk
+   - Reviewing and reporting
+  
+COSO is used by:
+- Large corporations.
+- Finance and accounting departments
+- Organizations dealing with SOX (Sarbanes-Oxley Act) compliance
+
+Real world example: "*A bank uses COSO ERM to identify the risk that a rogue employee could manipulate financial records. They put controls in place — like requiring two people to approve large transactions.*"
+
+> COSO = Making sure the whole organization is managed with integrity and risk-awareness.
