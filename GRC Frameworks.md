@@ -80,3 +80,12 @@ COSO is used by:
 Real world example: "*A bank uses COSO ERM to identify the risk that a rogue employee could manipulate financial records. They put controls in place — like requiring two people to approve large transactions.*"
 
 > COSO = Making sure the whole organization is managed with integrity and risk-awareness.
+
+## 2. NIST Cybersecurity Framework (NIST CSF)
+
+**NIST** STANDS FOR **National Institute of Standards and Technology**. It is a flexible, plain-English guide for any organization to manage cybersecurity risks. It is the most widely used cybersecurity framework in the world. NIST CSF is built around 6 core functions:
+
+```bash
+GOVERN → IDENTIFY → PROTECT → DETECT → RESPOND → RECOVER
+```
+
