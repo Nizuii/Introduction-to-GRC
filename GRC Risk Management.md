@@ -314,18 +314,37 @@ Incidents happen        → Every incident = a new risk lesson
                    <th>Investigate, lock account</th>
            </tr>
            <tr>
-                   <th></th>
-                   <th></th>
-                   <th></th>
+                   <th>Unpatched critical CVEs</th>
+                   <th>> 5 outstanding</th>
+                   <th>Emergency patch cycle</th>
            </tr>
            <tr>
-                   <th></th>
-                   <th></th>
-                   <th></th>
+                   <th>Phishing click rate</th>
+                   <th>> 5% of staff</th>
+                   <th>Immediate retraining</th>
            </tr>
            <tr>
-                   <th></th>
-                   <th></th>
-                   <th></th>
+                   <th>Backup failure rate</th>
+                   <th>Any failure</th>
+                   <th>Restore test + fix</th>
            </tr>
    </table>
+
+3. **Periodic Risk Assessments** The full risk assessment cycle repeats:
+
+   ```bash
+   Monthly   → Review KRIs and SIEM alerts
+   Quarterly → Vulnerability scans, control testing
+   Annually  → Full risk assessment, framework review
+   After any → Incident post-mortem, risk register update
+   incident
+
+4. **Penetration Testing** Hire ethical hackers (or do it yourself as a pen tester) to actively test if controls are working.
+
+   ```bash
+   Pen test finds: SQL injection still possible on patient portal
+   → Risk R3 thought to be resolved — actually still open
+   → Risk register updated
+   → Fix reissued
+   → Retest scheduled
+   ```
