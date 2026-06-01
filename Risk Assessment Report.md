@@ -10,3 +10,10 @@ Manual staff access         →    Role-based web portal access
 No mobile access            →    Mobile app for doctors
 Third-party lab integration →    API-based lab data exchange
 ```
+
+Regulations they must comply with:
+
+- IT Act 2000 (India)
+- GDPR (some EU patients)
+- HIPAA principles (best practice)
+- ISO 27001 (company goal)
