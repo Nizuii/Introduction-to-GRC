@@ -124,3 +124,86 @@ Applying STRIDE to each asset:
    <td>Phishing attack steals staff credentials</td>
  </tr>
 </table>
+
+### 3. Risk Identification
+Based on threat modeling, here are all identified risks:
+<table>
+ <tr>
+  <th>Risk ID</th>
+  <th>Risk Description</th>
+  <th>Affected Asset</th>
+  <th>Source</th>
+ </tr>
+ <tr>
+  <td>R1</td>
+  <td>Unauthorized access to patient records</td>
+  <td>A2, A3</td>
+  <td>External</td>
+ </tr>
+ <tr>
+  <td>R2</td>
+  <td>Ransomware encrypting cloud database</td>
+  <td>A1, A2</td>
+  <td>External</td>
+ </tr>
+ <tr>
+  <td>R3</td>
+  <td>Insecure API allowing data manipulation</td>
+  <td>A5</td>
+  <td>External</td>
+ </tr>
+ <tr>
+  <td>R4</td>
+  <td>Data breach during migration</td>
+  <td>A7</td>
+  <td>Internal/External</td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
