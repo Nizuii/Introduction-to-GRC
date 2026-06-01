@@ -184,3 +184,7 @@ ALE = ₹50,00,000 × 0.3
 ALE = ₹15,00,000 per year
 ```
 Now the hospital knows: "This risk costs us ₹15 lakhs per year on average." If a security solution costs ₹5 lakhs/year — it's clearly worth buying. This is how risk management justifies security budgets to CEOs.
+
+## Phase 3 - Risk Mitigation
+
+It means deciding what to do about each risk — and actually doing it. 
