@@ -169,3 +169,18 @@ Used when we need to justify security spending to management. Key terms are:
 - ALE = Annualized Loss Expectancy (Total expected loss per year)
 
 Formula: ALE x ARO.
+
+Now lets take a real example for hospital:
+
+```bash
+Risk: Ransomware attack on patient database
+
+SLE = ₹50,00,000  (cost of one ransomware incident
+                   — recovery, downtime, fines)
+
+ARO = 0.3         (30% chance it happens once per year)
+
+ALE = ₹50,00,000 × 0.3
+ALE = ₹15,00,000 per year
+```
+Now the hospital knows: "This risk costs us ₹15 lakhs per year on average." If a security solution costs ₹5 lakhs/year — it's clearly worth buying. This is how risk management justifies security budgets to CEOs.
