@@ -17,3 +17,26 @@ Regulations they must comply with:
 - GDPR (some EU patients)
 - HIPAA principles (best practice)
 - ISO 27001 (company goal)
+
+## GRC Governance Structure First
+
+Before any risk assessment begins, Governance defines the boundaries.
+
+```bash
+RISK APPETITE STATEMENT
+───────────────────────
+"HealthBridge will accept LOW operational risks
+ but will NOT accept any risk that exposes patient
+ data or violates compliance obligations."
+
+RISK ASSESSMENT OWNER: CISO — Arjun Menon
+REVIEW FREQUENCY: Quarterly + after every major change
+ESCALATION PATH: Risk Owner → CISO → Board
+```
+
+## RISK ASSESSMENT REPORT
+**Organization**: HealthBridge India Pvt. Ltd.
+**Project**: Cloud EHR System Implementation
+**Report Date**: June 2026
+**Classification**: Confidential
+**Prepared by**: GRC & Information Security Team
