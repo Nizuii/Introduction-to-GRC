@@ -36,14 +36,8 @@ ESCALATION PATH: Risk Owner → CISO → Board
 
 ## RISK ASSESSMENT REPORT
 
-```bash
-RISK APPETITE STATEMENT
-───────────────────────
-"HealthBridge will accept LOW operational risks
- but will NOT accept any risk that exposes patient
- data or violates compliance obligations."
-
-RISK ASSESSMENT OWNER: CISO — Cristiano Ronaldo
-REVIEW FREQUENCY: Quarterly + after every major change
-ESCALATION PATH: Risk Owner → CISO → Board
-```
+**Organization**: HealthBridge India Pvt. Ltd.  
+**Project**: Cloud EHR System Implementation  
+**Report Date**: June 2026  
+**Classification**: Confidential  
+**Prepared by**: GRC & Information Security Team  
