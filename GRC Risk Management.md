@@ -207,3 +207,24 @@ It means deciding what to do about each risk — and actually doing it. The 4 Ri
    Avoidance: Delete all spreadsheets, move to
            encrypted database — risk no longer exists
    ```
+
+3. **Transfer** - Move the risk to someone else. Buy insurance or outsource the risky function.
+
+   ```bash
+   Risk: DDoS attack taking down payment portal
+   Transfer: 
+        ├── Buy cyber insurance (covers financial loss)
+        └── Use Cloudflare DDoS protection (transfer
+            technical burden to them)
+   ```
+
+4. **ACCEPT** - Live with the risk. Used when risk is low enough or too costly to fix.
+
+   ```bash
+   Risk: Old internal printer has a minor vulnerability
+           Fix cost: ₹2,00,000
+           Potential damage: ₹10,000
+      
+   Decision: Accept — not worth fixing.
+           Document the decision formally.
+   ```
