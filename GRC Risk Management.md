@@ -242,3 +242,17 @@ Access Control      Vulnerability scans  Forensic Analysis
 Security Training   File integrity       System Reimaging
                     monitoring
 ```
+Lets update our risk register after mitigation:
+```bash
+Risk Register (updated):
+┌────┬──────────────┬──────────┬─────────────────────┬──────────┐
+│ ID │ Risk         │ Rating   │ Response            │ Status   │
+├────┼──────────────┼──────────┼─────────────────────┼──────────┤
+│ R1 │ Ransomware   │ Critical │ Mitigate — EDR+MFA  │ In prog  │
+│ R2 │ Phishing     │ High     │ Mitigate — Training │ Done     │
+│ R3 │ SQL injection│ High     │ Mitigate — WAF      │ Done     │
+│ R4 │ Insider theft│ Medium   │ Mitigate — DLP tool │ Pending  │
+│ R5 │ Unpatched    │ High     │ Mitigate — Patch mng│ In prog  │
+└────┴──────────────┴──────────┴─────────────────────┴──────────┘
+```
+
