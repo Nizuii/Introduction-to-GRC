@@ -299,3 +299,33 @@ Incidents happen        → Every incident = a new risk lesson
                    <td>HIPAA, GDPR</td>
            </tr>
    </table>
+
+2. **KRI — Key Risk Indicators** Like warning lights on a dashboard — they tell you when a risk is increasing:
+
+   <table>
+           <tr>
+                   <th>KRI</th>
+                   <th>Warning Threshold</th>
+                   <th>Action</th>
+           </tr>
+           <tr>
+                   <th>Failed login attempts</th>
+                   <th>> 10 per hour per user</th>
+                   <th>Investigate, lock account</th>
+           </tr>
+           <tr>
+                   <th></th>
+                   <th></th>
+                   <th></th>
+           </tr>
+           <tr>
+                   <th></th>
+                   <th></th>
+                   <th></th>
+           </tr>
+           <tr>
+                   <th></th>
+                   <th></th>
+                   <th></th>
+           </tr>
+   </table>
