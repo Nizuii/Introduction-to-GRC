@@ -94,3 +94,22 @@ Not all risks are equal. Assessment helps you figure out which risks to tackle f
 
 - **Qualitative Assessment**: Uses descriptive labels — Low, Medium, High, Critical. Faster but less precise. Good for initial assessments.
 - **Quantitative Assessment**: Uses actual numbers and financial values. More precise but takes longer. Used for high-stakes decisions.
+
+### Qualitative Assessment — The Risk Matrix
+
+Every risk is scored on two dimensions:
+- **LIKELIHOOD** - How probable is this risk occuring?
+- **IMPACT** - How damaging would it be if it occurs?
+
+```bash
+LIKELIHOOD
+              Low      Medium      High
+           ┌─────────┬─────────┬─────────┐
+    High   │ MEDIUM  │  HIGH   │CRITICAL │
+I          ├─────────┼─────────┼─────────┤
+M Medium   │   LOW   │ MEDIUM  │  HIGH   │
+P          ├─────────┼─────────┼─────────┤
+A  Low     │   LOW   │   LOW   │ MEDIUM  │
+C          └─────────┴─────────┴─────────┘
+T
+```
