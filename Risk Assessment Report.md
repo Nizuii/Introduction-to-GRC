@@ -43,7 +43,7 @@ RISK APPETITE STATEMENT
  but will NOT accept any risk that exposes patient
  data or violates compliance obligations."
 
-RISK ASSESSMENT OWNER: CISO — Arjun Menon
+RISK ASSESSMENT OWNER: CISO — Cristiano Ronaldo
 REVIEW FREQUENCY: Quarterly + after every major change
 ESCALATION PATH: Risk Owner → CISO → Board
 ```
