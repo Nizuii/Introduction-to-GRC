@@ -74,3 +74,53 @@ D — Denial of       (making system unavailable)
 E — Elevation of    (gaining higher privileges than allowed)
     Privilege
 ```
+
+Applying STRIDE to each asset:
+
+<table>
+ <tr>
+   <th>Asset</th>
+   <th>STRIDE Threat</th>
+   <th>Example</th>
+ </tr>
+ <tr>
+   <td>Web Portal</td>
+   <td>Spoofing</td>
+   <td>Attacker logs in as a doctor using stolen credentials</td>
+ </tr>
+ <tr>
+   <td>Patient Database</td>
+   <td>Information Disclosure</td>
+   <td>Unencrypted records leaked in a breach</td>
+ </tr>
+ <tr>
+   <td></td>
+   <td></td>
+   <td></td>
+ </tr>
+ <tr>
+   <td></td>
+   <td></td>
+   <td></td>
+ </tr>
+ <tr>
+   <td></td>
+   <td></td>
+   <td></td>
+ </tr>
+ <tr>
+   <td></td>
+   <td></td>
+   <td></td>
+ </tr>
+ <tr>
+   <td></td>
+   <td></td>
+   <td></td>
+ </tr>
+ <tr>
+   <td></td>
+   <td></td>
+   <td></td>
+ </tr>
+</table>
