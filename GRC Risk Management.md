@@ -56,4 +56,30 @@ methods used to identify risks are:
                    <td>Cyber Criminal</td>
                    <td>Ransomware</td>
            </tr>
+           <tr>
+                   <td>Payment server</td>
+                   <td>Fraudster</td>
+                   <td>Card skimming malware</td>
+           </tr>
+           <tr>
+                   <td>Employee laptops</td>
+                   <td>Insider</td>
+                   <td>Data exfiltration</td>
+           </tr>
+           <tr>
+                   <td>Web portal</td>
+                   <td>Hacker</td>
+                   <td>SQL injection</td>
+           </tr>
+           <tr>
+                   <td>Cloud storage</td>
+                   <td>Attacker</td>
+                   <td>Misconfiguration exploit</td>
+           </tr>
    </table>
+
+3. **Vulnerability Scanning**: Use tools to find technical weakness:
+
+   - **Nessus / OpenVAS**: scan systems for known vulnerabilities
+   - **Nikto**: scan web applications
+   - **Nmap**:  discover open ports and services
