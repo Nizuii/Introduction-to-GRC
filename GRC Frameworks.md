@@ -88,4 +88,51 @@ Real world example: "*A bank uses COSO ERM to identify the risk that a rogue emp
 ```bash
 GOVERN → IDENTIFY → PROTECT → DETECT → RESPOND → RECOVER
 ```
+Lets break each down:
 
+<table>
+  <tr>
+    <th>Function</th>
+    <th>Question it answers</th>
+    <th>Example activity</th>
+  </tr>
+  <tr>
+    <td>Govern</td>
+    <td>Who is responsible for cybersecurity decisions?</td>
+    <td>Create security policies, assign roles.</td>
+  </tr>
+  <tr>
+    <td>Identify</td>
+    <td>What assets do we have and what are the risks?</td>
+    <td>Asset inventory, risk assessment</td>
+  </tr>
+  <tr>
+    <td>Protect</td>
+    <td>How do we stop attacks from happening?</td>
+    <td>Firewalls, MFA, access controls</td>
+  </tr>
+  <tr>
+    <td>Detect</td>
+    <td>How do we know when something bad is happening?</td>
+    <td>SIEM, intrusion detection systems</td>
+  </tr>
+  <tr>
+    <td>Respond</td>
+    <td>What do we do when an attack happens?</td>
+    <td>Incident response plans</td>
+  </tr>
+  <tr>
+    <td>Recover</td>
+    <td>How do we get back to normal after an attack?</td>
+    <td>Backups, disaster recovery</td>
+  </tr>
+</table>
+
+Lets look at a real worl example of a hospital that uses NIST CSF:
+- **Identify**: Lists all medical devices and patient databases
+- **Protect**: Encrypts patient records, enforces MFA
+- **Detect:** Sets up a SOC that monitors network traffic 24/7
+- **Respond:** Has an IR team ready when ransomware is detected
+- **Recover:** Restores from clean backups within 4 hours
+
+## 3. NIST SP 800-53 
