@@ -94,33 +94,33 @@ Applying STRIDE to each asset:
    <td>Unencrypted records leaked in a breach</td>
  </tr>
  <tr>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td>API Integration</td>
+   <td>Tampering</td>
+   <td>Attacker modifies lab results via unsecured API</td>
  </tr>
  <tr>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td>Mobile App</td>
+   <td>Elevation of Privilege</td>
+   <td>Nurse gains admin-level access through app bug</td>
  </tr>
  <tr>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td>Admin Console</td>
+   <td>Spoofing + Elevation</td>
+   <td>Attacker gains admin access, modifies system config</td>
  </tr>
  <tr>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td>Data Migration</td>
+   <td>Tampering</td>
+   <td>Records corrupted or stolen during migration process</td>
  </tr>
  <tr>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td>Cloud Infrastructure</td>
+   <td>Denial of Service</td>
+   <td>DDoS attack takes down EHR system hospital-wide</td>
  </tr>
  <tr>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td>Employee Accounts</td>
+   <td>Spoofing</td>
+   <td>Phishing attack steals staff credentials</td>
  </tr>
 </table>
