@@ -136,3 +136,19 @@ Lets look at a real worl example of a hospital that uses NIST CSF:
 - **Recover:** Restores from clean backups within 4 hours
 
 ## 3. NIST SP 800-53 
+NIST SP 800-53 is basically a giant catalog of security controls. Think of it as a checklist of specific things you can do to protect a computer system or network. The U.S. government needed a standard way to secure all its IT systems. So NIST built this document to say, "Here are all the security measures you should consider." It's grouped into "families" of related controls. A few examples:
+
+<table>
+  <tr>
+    <th>Family</th>
+    <th>What it covers</th>
+  </tr>
+  <tr>
+    <td>AC (Access Control)</td>
+    <td>Who can log in, what they can access</td>
+  </tr>
+  <tr>
+    <td>AU (Audit)</td>
+    <td>Logging what happens on the system</td>
+  </tr>
+</table>
