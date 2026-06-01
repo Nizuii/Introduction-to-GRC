@@ -159,51 +159,52 @@ Based on threat modeling, here are all identified risks:
   <td>Internal/External</td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>R5</td>
+  <td>Weak employee passwords / credential theft</td>
+  <td>A8</td>
+  <td>Internal/External</td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>R6</td>
+  <td>Misconfigured AWS cloud storage (public bucket)</td>
+  <td>A1, A2</td>
+  <td>Internal</td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>R7</td>
+  <td>Insider threat — employee stealing records</td>
+  <td>A2, A3</td>
+  <td>Internal</td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>R8</td>
+  <td>Mobile app storing data insecurely on device</td>
+  <td>A4</td>
+  <td>Internal/External</td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>R9</td>
+  <td>Mobile app storing data insecurely on device</td>
+  <td>A1, A9</td>
+  <td>External</td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>R10</td>
+  <td>No disaster recovery — data loss after failure</td>
+  <td>A10</td>
+  <td>Internal</td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>R11</td>
+  <td>Third party vendor compromise (supply chain)</td>
+  <td>A5</td>
+  <td>External</td>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>R12</td>
+  <td>Non-compliance with GDPR data residency rules</td>
+  <td>A2</td>
+  <td>Internal</td>
  </tr>
 </table>
+
