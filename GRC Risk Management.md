@@ -83,3 +83,14 @@ methods used to identify risks are:
    - **Nessus / OpenVAS**: scan systems for known vulnerabilities
    - **Nikto**: scan web applications
    - **Nmap**:  discover open ports and services
+
+4. **Previous Incident Review**: Look at past security incidents — they reveal recurring risks.
+5. **Staff Interview**: Talk to employees — they often know about risky processes that IT doesn't see.
+6. **Compliance Gap Analysis**: Compare current state against framework requirements — gaps = risks.
+
+## Phase 2 - Risk Assessment
+
+Not all risks are equal. Assessment helps you figure out which risks to tackle first. There are 2 types of risk assessment:
+
+- **Qualitative Assessment**: Uses descriptive labels — Low, Medium, High, Critical. Faster but less precise. Good for initial assessments.
+- **Quantitative Assessment**: Uses actual numbers and financial values. More precise but takes longer. Used for high-stakes decisions.
