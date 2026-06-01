@@ -146,17 +146,17 @@ Applying this to thehospitals risk register:
                 <td>High</td>
         </tr>
         <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>R4</td>
+                <td>Insider data theft</td>
+                <td>Low</td>
+                <td>High</td>
+                <td>Medium</td>
         </tr>
         <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>R5</td>
+                <td>Unpatched servers</td>
+                <td>High</td>
+                <td>Medium</td>
+                <td>High</td>
         </tr>
 </table>
