@@ -33,6 +33,7 @@ Poor patch management             Regulatory changes
 methods used to identify risks are:
 
 1. **Asset Inventory**: We cannot protect what we dont know we have.
+
    ```bash
    MediPay's assets:
         ├── Patient records database
@@ -42,7 +43,8 @@ methods used to identify risks are:
         ├── Web application (patient portal)
         └── Third-party integrations (labs, pharmacies)
    ```
-2. **Threat Modeling**: For each asset: "Who would want to attack this and how?"
+3. **Threat Modeling**: For each asset: "Who would want to attack this and how?"
+
    <table>
            <tr>
                    <th>Asset</th>
