@@ -160,3 +160,12 @@ Applying this to thehospitals risk register:
                 <td>High</td>
         </tr>
 </table>
+
+### Quantitative Assessment — ALE Formula
+
+Used when we need to justify security spending to management. Key terms are:
+- SLE = Single Loss Expectency (How much one incident costs).
+- ARO = Annualized rate of occurrence (How much times per year it happens).
+- ALE = Annualized Loss Expectancy (Total expected loss per year)
+
+Formula: ALE x ARO.
