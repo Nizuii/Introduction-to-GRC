@@ -187,4 +187,21 @@ Now the hospital knows: "This risk costs us ₹15 lakhs per year on average." If
 
 ## Phase 3 - Risk Mitigation
 
-It means deciding what to do about each risk — and actually doing it. 
+It means deciding what to do about each risk — and actually doing it. The 4 Risk Response Strategies are:
+
+1. **MITIGATE** - Reduce the risk. Implement controls that lower likelihood or impact.
+   ```bash
+   Risk: Ransomware attack
+        Mitigation controls:
+                ├── Deploy EDR (Endpoint Detection & Response)
+                ├── Enforce MFA on all accounts
+                ├── Regular offline backups (3-2-1 rule)
+                ├── Network segmentation
+                └── Employee phishing awareness training
+   ```
+2. **Avoid** - Eliminate the risk entirely. Stop doing the risky activity altogether.
+   ```bash
+   Risk: Sensitive data stored in unencrypted spreadsheets
+   Avoidance: Delete all spreadsheets, move to
+           encrypted database — risk no longer exists
+   ```
