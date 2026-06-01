@@ -190,6 +190,7 @@ Now the hospital knows: "This risk costs us ₹15 lakhs per year on average." If
 It means deciding what to do about each risk — and actually doing it. The 4 Risk Response Strategies are:
 
 1. **MITIGATE** - Reduce the risk. Implement controls that lower likelihood or impact.
+   
    ```bash
    Risk: Ransomware attack
         Mitigation controls:
@@ -200,6 +201,7 @@ It means deciding what to do about each risk — and actually doing it. The 4 Ri
                 └── Employee phishing awareness training
    ```
 2. **Avoid** - Eliminate the risk entirely. Stop doing the risky activity altogether.
+   
    ```bash
    Risk: Sensitive data stored in unencrypted spreadsheets
    Avoidance: Delete all spreadsheets, move to
