@@ -41,3 +41,36 @@ ESCALATION PATH: Risk Owner → CISO → Board
 **Report Date**: June 2026  
 **Classification**: Confidential  
 **Prepared by**: GRC & Information Security Team  
+
+### 1. Asset Identification
+
+```bash
+ASSETS INTRODUCED BY THE NEW SYSTEM
+─────────────────────────────────────
+A1 — Cloud EHR Application (AWS hosted)
+A2 — Patient Health Records Database
+A3 — Doctor/Staff Web Portal
+A4 — Mobile Application (iOS & Android)
+A5 — API Integration (Labs, Pharmacies)
+A6 — Admin Console (System configuration)
+A7 — Data Migration Pipeline (old → new)
+A8 — Employee Credentials & Access Accounts
+A9 — Network Infrastructure (VPN, Firewall)
+A10 — Backup & Disaster Recovery System
+```
+
+### 2. Threat Identification
+
+Using STRIDE Threat Model — a structured way to identify threats:
+
+```bash
+S — Spoofing        (pretending to be someone else)
+T — Tampering       (modifying data without authorization)
+R — Repudiation     (denying you did something)
+I — Information     (unauthorized data exposure)
+    Disclosure
+D — Denial of       (making system unavailable)
+    Service
+E — Elevation of    (gaining higher privileges than allowed)
+    Privilege
+```
