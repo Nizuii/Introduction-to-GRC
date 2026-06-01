@@ -151,4 +151,28 @@ NIST SP 800-53 is basically a giant catalog of security controls. Think of it as
     <td>AU (Audit)</td>
     <td>Logging what happens on the system</td>
   </tr>
+  <tr>
+    <td>CM (Configuration Management)</td>
+    <td>Keeping systems properly configured</td>
+  </tr>
+  <tr>
+    <td>IA (Identification & Authentication)</td>
+    <td>Passwords, multi-factor auth, etc.</td>
+  </tr>
+  <tr>
+    <td>RA (Risk Assessment)</td>
+    <td>Finding and evaluating risks</td>
+  </tr>
+  <tr>
+    <td>SC (System & Communications Protection)</td>
+    <td>Encryption, firewalls, network security</td>
+  </tr>
 </table>
+
+Not every system needs every control. SP 800-53 defines three tiers:
+
+- Low impact systems → fewer controls
+- Moderate impact systems → more controls
+- High impact systems → the full set
+
+If NIST CSF is the strategy ("we need to protect our data"), SP 800-53 is the tactics ("here are the 200+ specific things we can do").
