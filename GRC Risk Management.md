@@ -30,3 +30,28 @@ Insider threats                   Vendor/supply chain attacks
 Shadow IT (unauthorized apps)     New malware & zero-days
 Poor patch management             Regulatory changes
 ```
+methods used to identify risks are:
+
+1. **Asset Inventory**: We cannot protect what we dont know we have.
+   ```bash
+   MediPay's assets:
+        ├── Patient records database
+        ├── Payment processing servers
+        ├── Employee laptops (200 units)
+        ├── Cloud storage (AWS)
+        ├── Web application (patient portal)
+        └── Third-party integrations (labs, pharmacies)
+   ```
+2. **Threat Modeling**: For each asset: "Who would want to attack this and how?"
+   <table>
+           <tr>
+                   <th>Asset</th>
+                   <th>Threat Actor</th>
+                   <th>Attack Method</th>
+           </tr>
+           <tr>
+                   <td>Patient database</td>
+                   <td>Cyber Criminal</td>
+                   <td>Ransomware</td>
+           </tr>
+   </table>
