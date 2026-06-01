@@ -15,3 +15,18 @@ Risk Management within GRC is not a one-time event. It is a continuous cycle tha
       back to IDENTIFY
        (New risks emerged?)
 ```
+
+## Phase 1 - Risk Identification
+
+It means finding everything that could possibly go wrong — before it actually goes wrong. This is the most important phase. You cannot manage a risk you don't know exists.
+
+```bash
+INTERNAL RISKS                    EXTERNAL RISKS
+──────────────                    ──────────────
+Misconfigured systems             Hackers & cybercriminals
+Untrained employees               Nation-state attackers
+Weak passwords                    Natural disasters
+Insider threats                   Vendor/supply chain attacks
+Shadow IT (unauthorized apps)     New malware & zero-days
+Poor patch management             Regulatory changes
+```
