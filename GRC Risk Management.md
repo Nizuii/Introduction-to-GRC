@@ -113,3 +113,50 @@ A  Low     │   LOW   │   LOW   │ MEDIUM  │
 C          └─────────┴─────────┴─────────┘
 T
 ```
+
+Applying this to thehospitals risk register:
+
+<table>
+        <tr>
+                <th>ID</th>
+                <th>Risk</th>
+                <th>Likelihood</th>
+                <th>Impact</th>
+                <th>Rating</th>
+        </tr>
+        <tr>
+                <td>R1</td>
+                <td>Ransomware attack</td>
+                <td>High</td>
+                <td>High</td>
+                <td>Critical</td>
+        </tr>
+        <tr>
+                <td>R2</td>
+                <td>Employee phishing</td>
+                <td>High</td>
+                <td>Medium</td>
+                <td>High</td>
+        </tr>
+        <tr>
+                <td>R3</td>
+                <td>SQL injection</td>
+                <td>Medium</td>
+                <td>High</td>
+                <td>High</td>
+        </tr>
+        <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+        </tr>
+        <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+        </tr>
+</table>
