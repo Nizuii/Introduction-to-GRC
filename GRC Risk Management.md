@@ -256,3 +256,46 @@ Risk Register (updated):
 └────┴──────────────┴──────────┴─────────────────────┴──────────┘
 ```
 
+## Phase 4 - Risk Monitoring
+
+Controls don't manage themselves. You must continuously check that they're working — and watch for new risks. Monitoring is critical because:
+
+```bash
+Threats evolve          → New malware, new attack techniques
+Systems change          → New servers, new software, new staff
+Controls degrade        → Misconfiguration, outdated signatures
+Regulations change      → New laws, updated frameworks
+Incidents happen        → Every incident = a new risk lesson
+```
+
+### Monitoring Activities:
+
+1. **Continuous Security Monitoring**
+
+   <table>
+           <tr>
+                   <th>Tool</th>
+                   <th>What it monitors</th>
+                   <th>Framework Requirement</th>
+           </tr>
+           <tr>
+                   <td>SIEM (Splunk/Wazuh)</td>
+                   <td>All log activity, anomalies</td>
+                   <td>ISO 27001, NIST</td>
+           </tr>
+           <tr>
+                   <td>IDS/IPS</td>
+                   <td>Network intrusion attempts</td>
+                   <td>PCI-DSS, NIST</td>
+           </tr>
+           <tr>
+                   <td>Vulnerability Scanner</td>
+                   <td>New vulnerabilities on systems</td>
+                   <td>PCI-DSS, CIS</td>
+           </tr>
+           <tr>
+                   <td>DLP (Data Loss Prevention)</td>
+                   <td>Sensitive data leaving the network</td>
+                   <td>HIPAA, GDPR</td>
+           </tr>
+   </table>
