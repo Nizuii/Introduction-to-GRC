@@ -176,3 +176,7 @@ Not every system needs every control. SP 800-53 defines three tiers:
 - High impact systems → the full set
 
 If NIST CSF is the strategy ("we need to protect our data"), SP 800-53 is the tactics ("here are the 200+ specific things we can do").
+
+## 4. ISO 27001
+
+**ISO 27001** stands for **International Organization for Standardization — 27001**. ISO 27001 is an internationally recognized certification that proves your organization takes information security seriously. It's like getting a gold star that the whole world respects.
