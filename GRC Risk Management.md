@@ -228,3 +228,17 @@ It means deciding what to do about each risk — and actually doing it. The 4 Ri
    Decision: Accept — not worth fixing.
            Document the decision formally.
    ```
+
+### Controls - The Tools of Mitigation:
+Controls are the actual mechanisms you implement to reduce risk. There are 3 types:
+```bash
+PREVENTIVE          DETECTIVE           CORRECTIVE
+(Stop it happening) (Catch it happening) (Fix it after)
+──────────────────  ─────────────────── ──────────────
+Firewall            SIEM / Log analysis  Incident Response
+MFA                 IDS/IPS              Patch Management
+Encryption          Antivirus alerts     Backups & Recovery
+Access Control      Vulnerability scans  Forensic Analysis
+Security Training   File integrity       System Reimaging
+                    monitoring
+```
