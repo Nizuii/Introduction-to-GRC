@@ -35,8 +35,8 @@ ESCALATION PATH: Risk Owner → CISO → Board
 ```
 
 ## RISK ASSESSMENT REPORT
-**Organization**: HealthBridge India Pvt. Ltd. 
-**Project**: Cloud EHR System Implementation 
+**Organization**: HealthBridge India Pvt. Ltd.    
+**Project**: Cloud EHR System Implementation.
 **Report Date**: June 2026 
 **Classification**: Confidential 
 **Prepared by**: GRC & Information Security Team 
