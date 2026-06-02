@@ -53,3 +53,11 @@ Unlike GDPR or HIPAA, it is not made by a government. It is an industry standard
 - Restaurants with point-of-sale terminals
 - Hotels
 - Even small Etsy sellers using certain payment setups
+
+**The core idea**: Credit card fraud hurts everyone. This standard makes sure companies handle card data safely. Key requirements are:
+
+- **Firewalls**: Block unauthorized network access
+- **No default passwords**: Change factory passwords on all systems
+- **Protect stored card data**: If you must store it, encrypt it heavily (best practice: don't store it at all)
+- **Encrypt data in transit**: Scramble card numbers when sending them over the internet
+- **Anti-virus**: Keep malware protection updated
