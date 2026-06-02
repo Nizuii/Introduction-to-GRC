@@ -44,3 +44,12 @@ It is made by the US government. Its main goal is to protect health information.
 - Staff training so a receptionist can't browse celebrity patients' records
 
 **Penalties**: Fines range from $100 to $50,000 per violation, up to $1.5 million per year for the same issue. Criminal charges possible for intentional misuse.
+
+## 3. PCI-DSS - Payment Card Industry Data Security Standard
+
+Unlike GDPR or HIPAA, it is not made by a government. It is an industry standard created by major credit card companies (Visa, Mastercard, Amex, Discover, JCB). Its main goal is to protect the card holder data like credit card numbers, expiration dates, security codes (CVV), PIN's. It should be followed by any organization that accepts, processes, stores, or transmits credit card payments. This includes:
+
+- Online stores
+- Restaurants with point-of-sale terminals
+- Hotels
+- Even small Etsy sellers using certain payment setups
