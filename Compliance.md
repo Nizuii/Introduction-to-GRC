@@ -61,3 +61,18 @@ Unlike GDPR or HIPAA, it is not made by a government. It is an industry standard
 - **Protect stored card data**: If you must store it, encrypt it heavily (best practice: don't store it at all)
 - **Encrypt data in transit**: Scramble card numbers when sending them over the internet
 - **Anti-virus**: Keep malware protection updated
+- **Secure Systems**: Regularly patch and update software
+- **Restrict access**: Only need-to-know staff can access card data
+- **Unique IDs**: Every user has their own login—no shared "admin/admin" accounts
+- **Physical Security**: Lock up servers and paper records
+- **Monitor networks**: Log and review all access to card data
+- **Regular testing**: Run vulnerability scans and penetration tests
+- **Policy Documentation**: Write down your security rules and train employees
+
+**Real world example**: A coffee shop takes credit cards. PCI DSS requires:
+- The payment terminal to be tamper-proof
+- The shop's Wi-Fi to be separate from the payment network
+- No writing card numbers on sticky notes
+- Quarterly security scans by an approved vendor
+
+**Penalties**: Fines from $5,000 to $100,000 per month by the card brands. Worse: you can lose the ability to accept credit cards entirely.
