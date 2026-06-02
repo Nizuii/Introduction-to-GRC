@@ -56,18 +56,18 @@ Unlike GDPR or HIPAA, it is not made by a government. It is an industry standard
 
 **The core idea**: Credit card fraud hurts everyone. This standard makes sure companies handle card data safely. Key requirements are:
 
-- **Firewalls**: Block unauthorized network access
-- **No default passwords**: Change factory passwords on all systems
-- **Protect stored card data**: If you must store it, encrypt it heavily (best practice: don't store it at all)
-- **Encrypt data in transit**: Scramble card numbers when sending them over the internet
-- **Anti-virus**: Keep malware protection updated
-- **Secure Systems**: Regularly patch and update software
-- **Restrict access**: Only need-to-know staff can access card data
-- **Unique IDs**: Every user has their own login—no shared "admin/admin" accounts
-- **Physical Security**: Lock up servers and paper records
-- **Monitor networks**: Log and review all access to card data
-- **Regular testing**: Run vulnerability scans and penetration tests
-- **Policy Documentation**: Write down your security rules and train employees
+1. **Firewalls**: Block unauthorized network access
+2. **No default passwords**: Change factory passwords on all systems
+3. **Protect stored card data**: If you must store it, encrypt it heavily (best practice: don't store it at all)
+4. **Encrypt data in transit**: Scramble card numbers when sending them over the internet
+5. **Anti-virus**: Keep malware protection updated
+6. **Secure Systems**: Regularly patch and update software
+7. **Restrict access**: Only need-to-know staff can access card data
+8. **Unique IDs**: Every user has their own login—no shared "admin/admin" accounts
+9. **Physical Security**: Lock up servers and paper records
+10. **Monitor networks**: Log and review all access to card data
+11. **Regular testing**: Run vulnerability scans and penetration tests
+12. **Policy Documentation**: Write down your security rules and train employees
 
 **Real world example**: A coffee shop takes credit cards. PCI DSS requires:
 - The payment terminal to be tamper-proof
