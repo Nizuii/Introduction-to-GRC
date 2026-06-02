@@ -4,3 +4,9 @@ In cybersecurity compliance means making sure your organization handles data and
 - **Legal penalties**: Fines, Lawsuits, even criminal charges.
 - **Reputation**: Customers lose trust if you leak their data.
 - **Business requirements**: Many partners won't work with you unless you're compliant
+
+Now lets take a look at 3 big frameworks:
+
+## 1. GDPR - General Data Protection Regulation
+
+It is made by the European Union (EU), but it affects companies worldwide. It protects personal data of any citizens living or residing under EU. Here the core idea is people own their data. You can't just collect it, use it, or share it however you want. You need their permission and a good reason.
