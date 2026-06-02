@@ -28,4 +28,19 @@ It is made by the European Union (EU), but it affects companies worldwide. It pr
 
 ## 2. HIPAA — Health Insurance Portability and Accountability Act
 
-It is made by the US government. Its main goal is to protect health information. Anything about your health, medical records, insurance, doctor visits, prescribtions, mental health notes etc... HIPAA should only be followed by companies that handle US patients data. The core idea is that your medical information is incredibly sensitive. It should be shared only with people who need it for your care, and it must be locked down tight.
+It is made by the US government. Its main goal is to protect health information. Anything about your health, medical records, insurance, doctor visits, prescribtions, mental health notes etc... HIPAA should only be followed by companies that handle US patients data. The core idea is that your medical information is incredibly sensitive. It should be shared only with people who need it for your care, and it must be locked down tight. The key rules are:
+
+- **Minimum necessary**: Staff should only access the minimum patient info needed for their job.
+- **Access controls**: Strong passwords, role-based permissions (a billing clerk sees bills, not diagnoses).
+- **Audit logs**: Track who looked at what record, when.
+- **Encryption**: Scramble data so it's useless if stolen.
+- **Business Associate Agreements (BAAs)**: If you hire a vendor to handle health data, they must also follow HIPAA.
+
+**Real world example**: A hospital uses a cloud service to store X-rays. HIPAA requires:
+
+- The cloud provider to sign a BAA
+- The images to be encrypted
+- Access logs showing which radiologist viewed which image
+- Staff training so a receptionist can't browse celebrity patients' records
+
+**Penalties**: Fines range from $100 to $50,000 per violation, up to $1.5 million per year for the same issue. Criminal charges possible for intentional misuse.
