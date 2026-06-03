@@ -1,5 +1,5 @@
 
-report_content = """# Case Study Analysis: MGM Resorts Cyberattack (September 2023)
+report_content = **Case Study Analysis: MGM Resorts Cyberattack (September 2023)**
 ## GRC (Governance, Risk, and Compliance) in Cybersecurity
 
 ---
